@@ -4,20 +4,20 @@
 
 **Tecnologias utilizadas:** 
 
-📌 Python 
-📌 Criptografia simétrica (AES)
-📌 Criptografia assimétrica (RSA)
-📌 Hashing de senhas
-📌 Autenticação com tokens JWT
+📌 Python\ 
+📌 Criptografia simétrica (AES)\
+📌 Criptografia assimétrica (RSA)\
+📌 Hashing de senhas\
+📌 Autenticação com tokens JWT\
 
 **Bibliotecas utilizadas:**
 
-## Externas
-`pip install bcrypt`
-`pip install PyJWT`
-`pip install cryptography`
+### Externas
+`pip install bcrypt`\
+`pip install PyJWT`\
+`pip install cryptography`\
 
-## Nativas do Python
-`os`
-`hashlib`
-`base64`
+### Nativas do Python
+`os`\
+`hashlib`\
+`base64`\
