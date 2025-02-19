@@ -4,7 +4,7 @@
 
 ### Tecnologias utilizadas:
 
-📌 Python\ 
+📌 Python<br>
 📌 Criptografia simétrica (AES)\
 📌 Criptografia assimétrica (RSA)\
 📌 Hashing de senhas\
@@ -12,12 +12,12 @@
 
 ### Bibliotecas utilizadas:
 
-**Externas**
+**Externas**\
 `pip install bcrypt`\
 `pip install PyJWT`\
 `pip install cryptography`
 
-**Nativas do Python**
+**Nativas do Python**\
 `os`\
 `hashlib`\
 `base64`
