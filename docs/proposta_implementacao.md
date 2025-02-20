@@ -10,7 +10,7 @@ Utilizados no processo de login para realizar a autenticação<br>
 Utilizada para proteger as mensagens que passarem pela aplicação<br>
  
 ## RSA
-Utilizado para para criptografar as chaves antes de armazená-las<br>
+Utilizado para para criptografar as chaves antes de armazená-las<br><br>
 
 
 # Como é realizado o armazenamento dos dados 
@@ -21,10 +21,10 @@ Nosso objetivo é assegurar a integridade e confidencialidade de todas as inform
 
 Práticas utilizadas para manter o armazenamento seguro:<br>
 
-⚠️ As senhas **NUNCA** serão armazenadas em texto plano<br>
+⚠️ As senhas **NUNCA** são armazenadas em texto plano<br>
 
-⚠️ As senhas serão armazenadas utlizando o bcrypt com sal aleatório<br>
+⚠️ As senhas são armazenadas utlizando o bcrypt com sal aleatório<br>
 
-⚠️ A aplicação irá **rejeitar** tokens invalidos ou expirados<br>
+⚠️ A aplicação **rejeita** tokens inválidos ou expirados<br>
 
-⚠️ **Todas** as solicitãções protegidas serão validas pelos token JWT 
+⚠️ **Todas** as solicitações protegidas são validadas pelos token JWT 
