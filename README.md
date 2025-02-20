@@ -21,3 +21,9 @@
 `os`\
 `hashlib`\
 `base64`
+
+<br><br>
+Engenharia de Software - 7° Semestre<br>
+Manuela Alves Rios da Silva - 11221100546<br>
+Eduardo Darwich da Rocha Moura - 11221100611<br>
+Giovanni Pieri - 11221102777
